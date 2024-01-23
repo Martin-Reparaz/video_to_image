@@ -1,2 +1,3 @@
 # video_to_image
-ROS Package that takes a video and converts it to image-ros-msg
+ROS Package that takes a video and converts it to image-ros-msg.
+Developed for ROS noetic.
